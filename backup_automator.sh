@@ -1,5 +1,4 @@
-!#/bin/bash
-#Author: Gorka Gallardo - @gorgalla_
+#Author: Gorka Gallardo 
 
 #!/bin/bash
 
